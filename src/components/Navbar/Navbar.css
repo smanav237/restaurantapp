@@ -24,6 +24,10 @@
 
     list-style: none;
 }
+/* .custom-navfonts{
+    font-family: 'Orbitron', sans-serif; 
+    color:white;
+} */
 
 .app__navbar-links li {
     margin: 0 1rem;
